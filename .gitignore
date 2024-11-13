@@ -2,6 +2,8 @@
 dep/
 
 10주차/VAE/data/MNIST
+10주차/VAE/sampled
+10주차/GAN/sampled
 # Created by https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode
 
